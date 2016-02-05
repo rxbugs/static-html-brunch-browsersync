@@ -8,6 +8,8 @@
   "devDependencies": {
     "browser-sync-brunch": "0.0.9",
     "brunch": "^2.2.3",
+    "brunch-static": "^1.1.0",
+    "html-brunch-static": "^1.2.1",
     "javascript-brunch": "^2.0.0",
     "sass-brunch": "^2.0.0"
   }
