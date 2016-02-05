@@ -1,0 +1,13 @@
+{
+  "name": "simple-brunch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "brunch watch --server"
+  },
+  "devDependencies": {
+    "brunch": "^2.2.3",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.0.0"
+  }
+}
