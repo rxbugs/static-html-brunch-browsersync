@@ -6,6 +6,7 @@
     "start": "brunch watch --server"
   },
   "devDependencies": {
+    "browser-sync-brunch": "0.0.9",
     "brunch": "^2.2.3",
     "javascript-brunch": "^2.0.0",
     "sass-brunch": "^2.0.0"
